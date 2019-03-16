@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">notificationteszt</string>
+    <string name="zenet_k_ld_se">Üzenet küldése</string>
+    <string name="notification_title">Hello</string>
+    <string name="notification_text">Attila</string>
+    <string name="httpget">Host adatok mutatása</string>
+    <string name="h_l_zati_adatforgalom">Hálózati adatforgalom</string>
+    <string name="h_l_zati_adat">Hálózati adatforgalom:</string>
+    <string name="lett_lt_s">Lettöltés:</string>
+    <string name="felt_lt_s">Feltöltés:</string>
+    <string name="let_lt">Letöltés:</string>
+    <string name="felt_lt">Feltöltés:</string>
+</resources>

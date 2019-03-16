@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_bright"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/newintent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/h_l_zati_adatforgalom" />
+
+    <Button
+        android:id="@+id/notific"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/button_onoff_indicator_on"
+        android:text="@string/zenet_k_ld_se"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/hostcim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/editbox_background_normal" />
+    <Button
+        android:id="@+id/httpget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/httpget" />
+
+    <TextView
+        android:id="@+id/adatok"
+        android:layout_width="match_parent"
+        android:layout_height="404dp"
+        android:background="@color/WHITE" />
+
+</LinearLayout>
